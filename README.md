@@ -26,7 +26,6 @@ Instead of manually going through lengthy offer letters, users can upload a PDF 
 |---|---|
 | Frontend | React.js, Vite, Tailwind CSS |
 | Backend | Node.js, Express.js |
-| Database | MongoDB |
 | AI Integration | Google Gemini API |
 | PDF Processing | pdf-parse |
 | File Upload | Multer |
