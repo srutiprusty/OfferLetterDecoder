@@ -76,7 +76,6 @@ Create a `.env` file inside the server directory:
 ```env
 PORT=8000
 FRONTEND_URL=http://localhost:5173
-MONGODB_URI=your_mongodb_connection_string
 GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini-3.5-flash
 GROQ_API_KEY=your_groq_api_key
