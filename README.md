@@ -117,12 +117,6 @@ An uploaded offer letter can produce structured information such as:
 
 *Note: Salary calculations are estimates based on extracted information and configured tax assumptions. Actual take-home salary may differ depending on individual circumstances and employer-specific deductions.*
 
-## 🔒 Security & Privacy
-
-- API keys are managed through environment variables.
-- Uploaded files are processed on the backend.
-- File uploads are handled using Multer.
-- Never commit `.env` files or expose API credentials in your repository.
 
 ## 🎯 Project Objective
 
